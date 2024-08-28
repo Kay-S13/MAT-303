@@ -1,0 +1,1 @@
+Problem sets and project completed for my MAT-303 Applied Statistics II STEM course. Each file includes the completed problem set and two versions of the Jupyter Notebook, one saved as html and one saved as R.
